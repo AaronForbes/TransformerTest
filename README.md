@@ -14,3 +14,6 @@ An open source tool to aid in the testing, characterisation and simulation of a 
 
 ## Hardware Installation
 
+## Contact Details
+
+aaronrobertforbes@gmail.com
